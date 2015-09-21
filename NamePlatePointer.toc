@@ -1,0 +1,10 @@
+## Interface: 60200
+
+## Title: NamePlate Pointer
+## Notes: Draws a line between nameplates.
+## Author: Elstarin - Drak'Thul
+## Version: 0.0.1
+## SavedVariables: NamePlatePointerDB
+## SavedVariablesPerCharacter: NamePlatePointerCharDB
+
+NamePlatePointer.lua
